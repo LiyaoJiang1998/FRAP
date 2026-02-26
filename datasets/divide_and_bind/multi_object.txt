@@ -1,0 +1,30 @@
+one dog and two cats
+one dog and three cats
+one dog and two birds
+one dog and three birds
+one cat and two dogs
+one cat and three dogs
+one cat and two birds
+one cat and three birds
+one zebra and two birds
+one zebra and three birds
+one pineapple and two apples
+one pineapple and two oranges
+one pineapple and three apples
+two pineapple and two apples
+one banana and two apples
+two oranges and two apples
+one banana and two oranges
+two banana and two oranges
+two dogs next to a bike
+two cats next to a bike
+three zebras standing next to each other
+three sheep standing in the field
+three cows standing in the field
+one apple and two sandwiches 
+one sandwich and two apples
+three geese floating in the middle of a river
+three bowls on the table
+one apple and two donuts
+one apple and three donuts
+two apples and two donuts

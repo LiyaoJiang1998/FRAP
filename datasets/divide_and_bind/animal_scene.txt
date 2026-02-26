@@ -1,0 +1,56 @@
+a cat and a dog in the library
+a cat and a dog in the kitchen
+a cat and a dog in the bedroom
+a cat and a dog on the bridge
+a cat and a dog on the street,snowy driving scene
+a cat and a dog on the street,rainy driving scene
+a cat and a dog on the street,nighttime driving scene
+a bird and a bear in the library
+a bird and a bear in the kitchen
+a bird and a bear in the bedroom
+a bird and a bear on the bridge
+a bird and a bear on the street,snowy driving scene
+a bird and a bear on the street,rainy driving scene
+a bird and a bear on the street,nighttime driving scene
+a lion and a frog in the library
+a lion and a frog in the kitchen
+a lion and a frog in the bedroom
+a lion and a frog on the bridge
+a lion and a frog on the street,snowy driving scene
+a lion and a frog on the street,rainy driving scene
+a lion and a frog on the street,nighttime driving scene
+a dog and a turtle in the library
+a dog and a turtle in the kitchen
+a dog and a turtle in the bedroom
+a dog and a turtle on the bridge
+a dog and a turtle on the street,snowy driving scene
+a dog and a turtle on the street,rainy driving scene
+a dog and a turtle on the street,nighttime driving scene
+a monkey and a rabbit in the library
+a monkey and a rabbit in the kitchen
+a monkey and a rabbit in the bedroom
+a monkey and a rabbit on the bridge
+a monkey and a rabbit on the street,snowy driving scene
+a monkey and a rabbit on the street,rainy driving scene
+a monkey and a rabbit on the street,nighttime driving scene
+a horse and a bird in the library
+a horse and a bird in the kitchen
+a horse and a bird in the bedroom
+a horse and a bird on the bridge
+a horse and a bird on the street,snowy driving scene
+a horse and a bird on the street,rainy driving scene
+a horse and a bird on the street,nighttime driving scene
+a cat and a mouse in the library
+a cat and a mouse in the kitchen
+a cat and a mouse in the bedroom
+a cat and a mouse on the bridge
+a cat and a mouse on the street,snowy driving scene
+a cat and a mouse on the street,rainy driving scene
+a cat and a mouse on the street,nighttime driving scene
+a dog and a elephant in the library
+a dog and a elephant in the kitchen
+a dog and a elephant in the bedroom
+a dog and a elephant on the bridge
+a dog and a elephant on the street,snowy driving scene
+a dog and a elephant on the street,rainy driving scene
+a dog and a elephant on the street,nighttime driving scene

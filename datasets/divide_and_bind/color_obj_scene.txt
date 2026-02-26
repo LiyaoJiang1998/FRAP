@@ -1,0 +1,60 @@
+a red cat and a blue dog in the library
+a red cat and a blue dog in the kitchen
+a red cat and a blue dog in the bedroom
+a red cat and a blue dog on the street,snowy driving scene
+a red cat and a blue dog on the street,rainy driving scene
+a red cat and a blue dog on the street,nighttime driving scene
+a purple dog and a green bench in the library
+a purple dog and a green bench in the kitchen
+a purple dog and a green bench in the bedroom
+a purple dog and a green bench on the street,snowy driving scene
+a purple dog and a green bench on the street,rainy driving scene
+a purple dog and a green bench on the street,nighttime driving scene
+a red cat and a black backpack in the library
+a red cat and a black backpack in the kitchen
+a red cat and a black backpack in the bedroom
+a red cat and a black backpack on the street,snowy driving scene
+a red cat and a black backpack on the street,rainy driving scene
+a red cat and a black backpack on the street,nighttime driving scene
+a green dog and a white clock in the library
+a green dog and a white clock in the kitchen
+a green dog and a white clock in the bedroom
+a green dog and a white clock on the street,snowy driving scene
+a green dog and a white clock on the street,rainy driving scene
+a green dog and a white clock on the street,nighttime driving scene
+a green backpack and a yellow chair in the library
+a green backpack and a yellow chair in the kitchen
+a green backpack and a yellow chair in the bedroom
+a green backpack and a yellow chair on the street,snowy driving scene
+a green backpack and a yellow chair on the street,rainy driving scene
+a green backpack and a yellow chair on the street,nighttime driving scene
+a green balloon and a pink car in the library
+a green balloon and a pink car in the kitchen
+a green balloon and a pink car in the bedroom
+a green balloon and a pink car on the street,snowy driving scene
+a green balloon and a pink car on the street,rainy driving scene
+a green balloon and a pink car on the street,nighttime driving scene
+a blue crown and a red balloon in the library
+a blue crown and a red balloon in the kitchen
+a blue crown and a red balloon in the bedroom
+a blue crown and a red balloon on the street,snowy driving scene
+a blue crown and a red balloon on the street,rainy driving scene
+a blue crown and a red balloon on the street,nighttime driving scene
+a black cat and a red suitcase in the library
+a black cat and a red suitcase in the kitchen
+a black cat and a red suitcase in the bedroom
+a black cat and a red suitcase on the street,snowy driving scene
+a black cat and a red suitcase on the street,rainy driving scene
+a black cat and a red suitcase on the street,nighttime driving scene
+a pink clock and a green apple in the library
+a pink clock and a green apple in the kitchen
+a pink clock and a green apple in the bedroom
+a pink clock and a green apple on the street,snowy driving scene
+a pink clock and a green apple on the street,rainy driving scene
+a pink clock and a green apple on the street,nighttime driving scene
+a blue bird and a brown backpack in the library
+a blue bird and a brown backpack in the kitchen
+a blue bird and a brown backpack in the bedroom
+a blue bird and a brown backpack on the street,snowy driving scene
+a blue bird and a brown backpack on the street,rainy driving scene
+a blue bird and a brown backpack on the street,nighttime driving scene
